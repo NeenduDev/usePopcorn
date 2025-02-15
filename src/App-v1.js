@@ -164,6 +164,7 @@ function MovieList({ movies }) {
 }
 
 // state less or presentational component
+// functional or UI components
 function Movie({ movie }) {
   return (
     <li>

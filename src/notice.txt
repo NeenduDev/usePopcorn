@@ -1,0 +1,20 @@
+App-v1
+list box ekai watchedbox eki amazing candidates la kyla aduragattha un reusable Box component ekak hadanna composition wlin.(structural components/layout components/structure the UI)
+
+App-v1
+// state less or presentational component
+// functional or UI components 
+props wlin data recive krla display krnwa
+
+stateful/smart/container components are another type.
+
+App-v2
+lots of small functionlities are added while open the app in realtime checking local host 3000 
+local storage is storing our rated watched list
+
+App-v3
+how not to select DOM elements in react(we should use react's declarative way.)
+
+App-v4
+useMovies custom hook used in this.. so missing logic is normal in that big monolith component
+useLocalStorage hook is also used in this.
